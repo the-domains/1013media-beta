@@ -16,20 +16,20 @@ keywords:
   - beautiful
   - sample
 description: An ever-growing collection of sample works from across the media spectrum.
-datePublished: '2015-12-15T23:55:14.828Z'
-dateModified: '2015-12-15T23:55:10.893Z'
+datePublished: '2015-12-15T23:57:35.129Z'
+dateModified: '2015-12-15T23:57:18.004Z'
 author: []
 related: []
 app_links: []
 title: EXEMPLARS
-sourcePath: _posts/2015-12-15-exemplars.md
-published: true
 authors: []
 publisher:
   name: Vimeopro
   domain: vimeopro.com
   url: 'https://vimeopro.com'
   favicon: 'https://i.vimeocdn.com/portrait/4181212_30x30.jpg'
+sourcePath: _posts/2015-12-15-exemplars.md
+published: true
 url: exemplars/index.html
 _context: 'http://schema.org'
 _type: MediaObject
