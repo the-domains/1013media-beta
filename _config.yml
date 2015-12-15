@@ -1,7 +1,7 @@
 name: 1013media BETA
 favicon: null
-layout_spectrum: 0.10932014882564545
-typography_spectrum: 0.7545722036156803
+layout_spectrum: 0.99972
+typography_spectrum: 0.74399
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.14881751104258
-  lightness: 0.30060215946286917
-  saturation: 0.8713972175028175
-  rhythmicContrast: 0.8775532650761306
+    - '#000000'
+    - '#ffffff'
+    - '#a90b0f'
+    - '#6f6f6f'
+    - '#9f9f9f'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
