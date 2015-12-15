@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[1013media - voodoo-free, full-service media production]]></title>
+        <description><![CDATA[1013media - voodoo-free, full-service media production]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 23:44:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[produce. edit. enable.]]></title>
+            <description><![CDATA[<article><h1>produce. edit. enable.</h1><h2>our goal is to enable you and your message; with zero-faults and no excuses.</h2><p>produce. edit. enable</p></article>]]></description>
+            <link>undefinedproduce-edit-enable/index.html</link>
+            <guid isPermaLink="false">b5b66c8f-b66d-4b22-8c75-6a1068b0504e</guid>
+            <pubDate>Tue, 15 Dec 2015 23:44:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
