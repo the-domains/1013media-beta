@@ -4,7 +4,7 @@
         <description><![CDATA[1013media - voodoo-free, full-service media production]]></description>
         <link>https://thegrid.ai/1013media-beta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 23:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 17:09:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1013media-beta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[EXEMPLARS]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/1013media-beta/exemplars/index.html</link>
             <guid isPermaLink="false">d49eec4e-6646-49d8-b381-8ae5ada3912b</guid>
             <pubDate>Tue, 15 Dec 2015 23:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[produce. edit. enable.]]></title>
-            <description><![CDATA[<article><h1>produce. edit. enable.</h1><h2>our goal is to enable you and your message; with zero-faults and no excuses.</h2><p>produce. edit. enable</p></article>]]></description>
-            <link>https://thegrid.ai/1013media-beta/produce-edit-enable/index.html</link>
-            <guid isPermaLink="false">b5b66c8f-b66d-4b22-8c75-6a1068b0504e</guid>
-            <pubDate>Tue, 15 Dec 2015 23:44:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
