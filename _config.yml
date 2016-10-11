@@ -1,20 +1,4 @@
-name: 1013media BETA
-favicon: null
-layout_spectrum: 0.99972
 typography_spectrum: 0.74399
-title: '1013media - voodoo-free, full-service media production'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,32 @@ color:
   lightness: 0.25
   saturation: 0.5
   rhythmicContrast: 0.75
-purpose: []
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99972
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Greg Fulcher
+  email: greg@1013media.com
+name: 1013media
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 1013media
+content: []
+description: 'voodoo-free, full-service media production'
+purpose:
+  - type: contact
+    url: 'tel:415.508.6766'
+    label: 'phone: 415.508.6766'
+  - type: contact
+    url: 'mailto:info@1013media.com'
+    label: 'email:'
